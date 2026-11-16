@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">VN Pulse</string>
+    <string name="tab_watchlist">Bảng giá</string>
+    <string name="tab_chart">Biểu đồ</string>
+    <string name="tab_alerts">Cảnh báo</string>
+    <string name="market_live">ĐANG GIAO DỊCH</string>
+    <string name="market_closed">NGOÀI GIỜ</string>
+    <string name="market_lunch">NGHỈ TRƯA</string>
+    <string name="market_ato">PHIÊN ATO</string>
+    <string name="market_atc">PHIÊN ATC</string>
+    <string name="refresh_now">Làm mới ngay</string>
+    <string name="add_ticker">Thêm mã</string>
+    <string name="reset_defaults">Khôi phục 4 mã gốc</string>
+    <string name="cd_refresh">Làm mới dữ liệu thị trường</string>
+    <string name="cd_back">Quay lại</string>
+    <string name="cd_add_ticker">Thêm mã cổ phiếu</string>
+    <string name="cd_settings">Cài đặt cập nhật</string>
+    <string name="cd_alert">Cài đặt cảnh báo giá</string>
+    <string name="cd_remove_ticker">Xóa mã khỏi danh sách</string>
+    <string name="cd_theme_toggle">Chuyển giao diện sáng tối</string>
+</resources>

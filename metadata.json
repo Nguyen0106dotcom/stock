@@ -1,0 +1,6 @@
+{
+  "name": "VN Pulse",
+  "description": "Theo dõi trực tiếp bảng giá, biểu đồ và sổ lệnh các mã chứng khoán Việt Nam (HHV, KOS, CHPG2625, C4G) theo thời gian thực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
